@@ -1,0 +1,1 @@
+[{"name":"Test Logic","tasks":[{"duration":1,"name":"A","successors":["B"]},{"duration":2,"name":"B","successors":["C"]},{"duration":3,"name":"C","successors":["D"]},{"duration":4,"name":"D","successors":["E"]},{"duration":5,"name":"E","successors":[]}]}]
